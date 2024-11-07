@@ -1,0 +1,78 @@
+{ 
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptions_672bb92e9ee3100089070001_displayName": {
+            "value": null
+        },
+        "subscriptions_672bb92e9ee3100089070002_displayName": {
+            "value": null
+        },
+        "users_1_lastName": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "publicIPAddresses_publicIP_name": {
+            "value": null
+        },
+        "publicIPAddresses_publicIP2_name": {
+            "value": null
+        },
+        "firewallPolicies_firewallpolicy_name": {
+            "value": null
+        },
+        "sites_MultiSoftwareEnterpriseWebApp206_name": {
+            "value": null
+        },
+        "servers_multisoftwareenterpriseserver06_name": {
+            "value": null
+        },
+        "sites_MultiSoftwareEnterpriseFunction06_name": {
+            "value": null
+        },
+        "storageAccounts_multisoftwareenterpa40e_name": {
+            "value": null
+        },
+        "applications_MultiSoftwareEnterprise06_name": {
+            "value": null
+        },
+        "serverfarms_ASP_MultiSoftwareEnterprise06_a114_name": {
+            "value": null
+        },
+        "serverfarms_ASP_MultiSoftwareEnterprise06_b3a3_name": {
+            "value": null
+        },
+        "components_MultiSoftwareEnterpriseWebApp206_name": {
+            "value": null
+        },
+        "components_MultiSoftwareEnterpriseFunction06_name": {
+            "value": null
+        },
+        "virtualNetworks_MultiSoftwareEnterpriseVNET06_name": {
+            "value": null
+        },
+        "applications_MultiSoftwareEnterpriseBlobSto06_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "networkSecurityGroups_MultiSoftwareEnterpriseNSG06_name": {
+            "value": null
+        },
+        "service_MultiSoftwareEnterpriseAPIManagement06_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_MultiSoftwareEnterpriseVNEGatewayT06_name": {
+            "value": null
+        },
+        "b2cDirectories_MultiSoftwareEnterpris06_onmicrosoft_com_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_1c886614_b679_4db5_892e_cad0b870c57e_NEU_externalid": {
+            "value": null
+        }
+    }
+}
